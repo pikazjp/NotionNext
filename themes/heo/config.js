@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: '天使的珊瑚关爱之家',
   HEO_HERO_TITLE_4: '最新翻译',
   HEO_HERO_TITLE_5: 'FOP必看：ICC-官方指南',
-  HEO_HERO_TITLE_LINK: 'https://https://www.fopchina.com/article/icc-fop-guidance',
+  HEO_HERO_TITLE_LINK: 'https://www.fopchina.com/article/icc-fop-guidance',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
